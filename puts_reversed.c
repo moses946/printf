@@ -8,7 +8,7 @@
   */
 int _puts_reversed(char *str)
 {
-	int i, j;
+	int i = 0, j = 0;
 
 	while (str[i])
 	{
